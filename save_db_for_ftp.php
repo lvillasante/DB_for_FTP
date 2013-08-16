@@ -1,10 +1,8 @@
 <?php
 /* Usuario para la conexion a Mysql. */
-// $usurio = "tu_usuario";
-$usurio = "ticbol_enbolivia";
+$usurio = "tu_usuario";
 /* Password para la conexion a Mysql. */
-// $passwd = "la_clave";
-$passwd = "v754d71QWM";
+$passwd = "la_clave";
  /* Host para la conexion a Mysql. */
 $host = "localhost";
 /* Base de Datos que se seleccionará. */
